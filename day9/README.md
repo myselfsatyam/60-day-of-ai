@@ -1,4 +1,8 @@
 # Teaching AI Semantic Meaning Through Vectors
+## requirement:
+scikit-learn
+numpy
+matplotlib
 
 ## Day 9 — AI Foundations
 
