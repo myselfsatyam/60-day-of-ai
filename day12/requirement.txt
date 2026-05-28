@@ -1,0 +1,5 @@
+langchain
+scikit-learn
+numpy
+wikipedia
+jupyter
