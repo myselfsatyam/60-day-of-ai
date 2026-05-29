@@ -1,0 +1,6 @@
+langchain-google-genai
+numpy 
+pandas 
+scikit-learn 
+matplotlib 
+python-dotenv
